@@ -1,0 +1,7 @@
+allowed_files:
+  - raw-data/sample.txt
+
+tags:
+  raw-data/sample.txt:
+    role_required: "analyst"
+    category: "operational"

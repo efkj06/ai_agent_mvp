@@ -1,0 +1,10 @@
+[
+  {
+    "id": "raw-data/sample.txt_chunk_0",
+    "source": "raw-data/sample.txt",
+    "content": "this is a test file. it was created on 2/6/2026, at 1350h.\nit contains plain text, and one fun fact.\nthe fun fact is: orcas can reach top speeds of up to 35mph in the water!",
+    "embedding": null,
+    "role_required": "analyst",
+    "category": "operational"
+  }
+]
